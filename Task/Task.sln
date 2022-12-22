@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task", "Task\Task.csproj", "{081DCAB4-7AC2-4481-AAB1-1F2EA0F8F3A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{1F1607E1-6DEF-4748-8E3D-2439184200DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateAccess", "DateAccess\DateAccess.csproj", "{80C309B1-CBE9-4941-97DA-7F6AC1965EAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{081DCAB4-7AC2-4481-AAB1-1F2EA0F8F3A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{081DCAB4-7AC2-4481-AAB1-1F2EA0F8F3A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{081DCAB4-7AC2-4481-AAB1-1F2EA0F8F3A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{081DCAB4-7AC2-4481-AAB1-1F2EA0F8F3A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F1607E1-6DEF-4748-8E3D-2439184200DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1607E1-6DEF-4748-8E3D-2439184200DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1607E1-6DEF-4748-8E3D-2439184200DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1607E1-6DEF-4748-8E3D-2439184200DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80C309B1-CBE9-4941-97DA-7F6AC1965EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80C309B1-CBE9-4941-97DA-7F6AC1965EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80C309B1-CBE9-4941-97DA-7F6AC1965EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80C309B1-CBE9-4941-97DA-7F6AC1965EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50EC0925-984C-419B-9EE5-21E0642D090F}
+	EndGlobalSection
+EndGlobal

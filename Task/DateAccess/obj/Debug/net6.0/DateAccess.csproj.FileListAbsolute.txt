@@ -1,0 +1,17 @@
+C:\Users\99470\Desktop\Hometasks\test\Task\DateAccess\bin\Debug\net6.0\DateAccess.deps.json
+C:\Users\99470\Desktop\Hometasks\test\Task\DateAccess\bin\Debug\net6.0\DateAccess.runtimeconfig.json
+C:\Users\99470\Desktop\Hometasks\test\Task\DateAccess\bin\Debug\net6.0\DateAccess.dll
+C:\Users\99470\Desktop\Hometasks\test\Task\DateAccess\bin\Debug\net6.0\DateAccess.pdb
+C:\Users\99470\Desktop\Hometasks\test\Task\DateAccess\bin\Debug\net6.0\Core.dll
+C:\Users\99470\Desktop\Hometasks\test\Task\DateAccess\bin\Debug\net6.0\Core.pdb
+C:\Users\99470\Desktop\Hometasks\test\Task\DateAccess\obj\Debug\net6.0\DateAccess.csproj.AssemblyReference.cache
+C:\Users\99470\Desktop\Hometasks\test\Task\DateAccess\obj\Debug\net6.0\DateAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\Desktop\Hometasks\test\Task\DateAccess\obj\Debug\net6.0\DateAccess.AssemblyInfoInputs.cache
+C:\Users\99470\Desktop\Hometasks\test\Task\DateAccess\obj\Debug\net6.0\DateAccess.AssemblyInfo.cs
+C:\Users\99470\Desktop\Hometasks\test\Task\DateAccess\obj\Debug\net6.0\DateAccess.csproj.CoreCompileInputs.cache
+C:\Users\99470\Desktop\Hometasks\test\Task\DateAccess\obj\Debug\net6.0\DateAccess.csproj.CopyComplete
+C:\Users\99470\Desktop\Hometasks\test\Task\DateAccess\obj\Debug\net6.0\DateAccess.dll
+C:\Users\99470\Desktop\Hometasks\test\Task\DateAccess\obj\Debug\net6.0\refint\DateAccess.dll
+C:\Users\99470\Desktop\Hometasks\test\Task\DateAccess\obj\Debug\net6.0\DateAccess.pdb
+C:\Users\99470\Desktop\Hometasks\test\Task\DateAccess\obj\Debug\net6.0\DateAccess.genruntimeconfig.cache
+C:\Users\99470\Desktop\Hometasks\test\Task\DateAccess\obj\Debug\net6.0\ref\DateAccess.dll
